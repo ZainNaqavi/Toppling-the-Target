@@ -1,6 +1,8 @@
 # Toppling-the-Target
 A 3D simulation of a projectile using VPython where the aim is to topple a target block with a ball.
 
+*Archived project from 2018*
+
 ## Run the code in your browser
 Click this button to run the code in your browser:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZainNaqavi/Toppling-the-Target/main?filepath=Toppling_Target.ipynb)
